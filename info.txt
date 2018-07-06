@@ -1,0 +1,22 @@
+﻿32px texture pack minetest_game. For the collection used: Faithful, Horrorpack, Vattic's Minecraft Faithful, Nature-test, Modern, MTCORE32px, Schone Welt, Summerfields, Vanilla аnd the works of Mikola.
+
+
+
+
+Faithful texture pack converted to Minetest	https://forum.minetest.net/viewtopic.php?t=2264
+
+Horrorpack					https://forum.minetest.net/viewtopic.php?f=4&t=15489
+
+Vattic's Minecraft Faithful			https://forum.minetest.net/viewtopic.php?f=4&t=9977
+
+Nature-test					https://forum.minetest.net/viewtopic.php?f=4&t=11099
+
+Modern texture pack				https://forum.minetest.net/viewtopic.php?f=4&t=15056
+
+Minetest Default Textures (MTCORE32px)		https://forum.minetest.net/viewtopic.php?f=4&t=13327
+
+Schone Welt					https://forum.minetest.net/viewtopic.php?f=4&t=16305
+
+Summerfields					https://forum.minetest.net/viewtopic.php?t=9314
+
+Vanilla						https://forum.minetest.net/viewtopic.php?t=15758
